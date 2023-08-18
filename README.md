@@ -1,5 +1,5 @@
 # 💫 About Me:
-Formado em Comércio Exterior.<br>Técnico em Automação Industrial com CFT ativo.<br>Técnico em Eletrônica com mais de 10 anos de experiência.<br>Estudante de Inglês e Programação (Backend)
+Formado em Comércio Exterior.<br>Técnico em Automação Industrial com CFT ativo.<br>Técnico em Eletrônica com mais de 10 anos de experiência.<br>Estudante de Inglês e Programação (Backend).<br>
 
 
 ## 🌐 Socials:
